@@ -1,2 +1,2 @@
 # Simple-Hangman
-a simple hangman without an UI/UX
+a simple hangman without any UI/UX
